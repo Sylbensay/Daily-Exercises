@@ -1,0 +1,133 @@
+body {
+    background-color: bisque;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    height: 200px;
+    background-color: cadetblue;
+}
+
+.nav-item1 {
+    height: 50px;
+    width: 5%;
+    background-color: coral;
+    margin: 20px;
+    padding: 2px;
+    border: 0px;
+}
+.nav-item2 {
+    height: 50px;
+    width: 5%;
+    background-color: coral;
+    margin: 20px;
+    padding: 2px;
+    border: 0px;
+}
+.nav-item3 {
+    height: 50px;
+    width: 5%;
+    background-color: coral;
+    margin: 20px;
+    padding: 2px;
+    border: 0px;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+    margin-top: 0px;
+    padding: 10px;
+    border: 0px;
+    height: 900px;
+    background-color: rgb(179, 172, 156);
+    
+}
+.sec1-article1 {
+    height: 90%;
+    width: 50%;
+    background-color:  rgb(231, 146, 203);
+    margin: 1px;
+    padding: 2px;
+    border: 0px;
+
+}
+.sec1-article2 {
+    height: 90%;
+    width: 50%;
+    background-color: rgb(231, 146, 203);
+    margin: 10px;
+    padding: 2px;
+    border: 0px;
+
+}
+
+.section2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 10px;
+    padding-bottom: 0px;
+    border: 0px;
+    height: 900px;
+    background-color: rgb(179, 172, 156);
+    
+}
+.sec2-article1 {
+    height: 90%;
+    width: 33.3%;
+    background-color:  rgb(231, 146, 203);
+    margin: 1px;
+    padding: 2px;
+    border: 0px;
+
+}
+.sec2-article2 {
+    height: 90%;
+    width: 33.3%;
+    background-color: rgb(231, 146, 203);
+    margin: 10px;
+    padding: 2px;
+    border: 0px;
+
+}
+.sec2-article3 {
+    height: 90%;
+    width: 33.3%;
+    background-color: rgb(231, 146, 203);
+    margin: 10px;
+    padding: 2px;
+    border: 0px;
+
+}
+
+.footer1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    margin-top: 0px;
+    padding: 0px;
+    border: 0px;
+    height: 400px;
+    width: 100%;
+    background-color: rgb(19, 15, 6);
+}
